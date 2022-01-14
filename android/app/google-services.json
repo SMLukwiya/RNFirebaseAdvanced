@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "225080179745",
+    "project_id": "projectchef-46767",
+    "storage_bucket": "projectchef-46767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225080179745:android:7085028539fb5afeb97760",
+        "android_client_info": {
+          "package_name": "com.anychef.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225080179745-oodq5j74jm0q903aevkcqucbfemh84q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anychef.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "225080179745-g4bom591694bju1n6ksb8cecm24oemqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXeWnWleJ7L2Kq2fARJe4K_lukUhbbic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225080179745-g4bom591694bju1n6ksb8cecm24oemqc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225080179745-q46fv1o4oqc8l5vltmng1liv0gc4j75j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anychef.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
